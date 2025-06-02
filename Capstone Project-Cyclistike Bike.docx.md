@@ -80,7 +80,7 @@ The director of marketing believes the company’s future success depends on max
 
    
 
-   ![][image1]
+   ![](https://github.com/HS-GitHub/data-analysis/blob/main/image/image1.png)
 
    
 
@@ -116,7 +116,7 @@ The director of marketing believes the company’s future success depends on max
    * Count of Casual bikers : 8,984  
    * Count of Member bikers : 33,002
 
-                             ** ![][image2]**                      
+     ![](https://github.com/HS-GitHub/data-analysis/blob/main/image/image2.png)                      
   
 
 2) **Type of Bikes**
@@ -124,7 +124,7 @@ The director of marketing believes the company’s future success depends on max
    * There are two types of bicycles: *Classic, electric*  
    * Electric bikes are more popular among members and casual riders over Classic bikes 
 
-                                ** ![][image3]** 
+	![](https://github.com/HS-GitHub/data-analysis/blob/main/image/image3.png) 
 
 3) **Trips taken in a Week**
 
@@ -132,7 +132,7 @@ The director of marketing believes the company’s future success depends on max
    * Casual riders have highest activity on Saturdays and lowest activity on Thursdays
 
 
-  **![][image4]**
+  ![](https://github.com/HS-GitHub/data-analysis/blob/main/image/image4.png)
 
 
 4)  **Cyclistic Member/Casual Count on Start Stations** 
@@ -141,7 +141,7 @@ The director of marketing believes the company’s future success depends on max
     * MAX casual biker count is on Sheridan Road station : 124
 
 
-                   ![][image5]
+      ![](https://github.com/HS-GitHub/data-analysis/blob/main/image/image5.png)
 
 5) **Average Ride Duration in Minute**
 
@@ -149,13 +149,13 @@ The director of marketing believes the company’s future success depends on max
      length of 15 minutes. Hence, the ride duration of Cyclist members are approximately two times smaller 
      than casual riders.
 
-              ** ![][image6]**
+      ![](https://github.com/HS-GitHub/data-analysis/blob/main/image/image6.png)
 
 	
 
 5. **Share**
 
-**![][image7]**
+      ![](https://github.com/HS-GitHub/data-analysis/blob/main/image/img7.png)
 
 >**Similarities:**
 > - Both Cyclistic members and casual riders prefer electric bicycles over classic bicycles   
